@@ -1,0 +1,207 @@
+body
+{
+	background-image: url("images/background3.jpg");
+}
+
+.maindiv
+{
+	width:75%;
+	margin:auto;
+	background-color:#f15a24;	
+	color: white;
+}
+.header
+{
+	padding:10px;
+	width:75%;
+	height:120px;
+	
+}
+.header-logo
+{
+	width:50%;
+	float:left;
+}
+.header-logo img{
+	height: 122px;
+}
+
+
+.nav-bar
+{
+	width:100%;
+	background-color:#3d2e69;
+	padding-bottom:1%;
+	padding-top:1%;
+}
+.nav-bar a
+{
+	text-decoration:none;
+	color:white;
+	padding-left:4%;
+}
+.nav-bar a:hover
+{
+	text-decoration:underline;
+}
+
+.content
+{
+	width:98%;
+	margin: 1%;
+	padding: 1%;
+	font-size: 18px;
+}
+
+.categoryheading
+{
+	width:100%;
+	background-color:#3d2e69;
+	overflow: hidden;
+}
+
+.foodmenu {
+	width: 110%;
+	height: 200px;
+	/*background-color: yellow;*/
+}
+
+.food {
+	width:45%;
+	background-color: #f15a24;
+	float:left;
+	margin: 3px;
+	border: 2px solid yellow;
+}
+.foodimage{
+	width: 35%;
+	height: 165px;
+	float: left;
+}
+.foodimage img{
+	width: 100%;
+	height: 165px;
+
+}
+.fooddetails{
+	width: 62%;
+	height: 165px;
+	float: left;
+	padding-left: 10px;
+}
+
+
+
+.footer
+{
+	width:100%;
+	height:330px;
+	background-color:#3d2e69;
+	float:left;
+	border-top:solid #F00 1px;
+}
+.footer-inside
+{
+	width:31%;
+	padding:5px;
+	float:left;
+	
+}
+.footer-inside img
+{
+	width:12%;
+	padding:0 2%;
+	transition: width 2s;
+}
+.footer-inside img:hover{
+	width: 80px;
+}
+
+.footer-inside a{
+	text-decoration: none;
+	color: white;
+}
+
+.footer-inside a:hover{
+	text-decoration: underline;
+
+.footer3 img
+{
+	width:48px;
+	height:40px;
+	padding-left:10px;
+}
+.footer1 p, .footer2 p, .footer3 p
+{
+	padding-left:20px;
+}
+
+
+
+
+.gallery{
+
+}
+.gallery img{
+	width: 355px;
+	height: 200px;
+}
+
+.imagediv{
+	width: 100%;
+}
+
+.imagediv img {
+	width: 20%;
+	height: 250px;
+}
+
+.blog{
+	width: 30%;
+	background-color: #9dc435;
+	
+	float: left;
+	margin: 3px;
+
+}
+.blog img{
+	width: 100%;
+	height: 250px;
+}
+
+.travel{
+	width: 30%;
+	background-color: #9dc435;
+	
+	float: left;
+	margin: 3px;
+
+}
+.travel img{
+	width: 100%;
+	height: 250px;
+}
+
+.testi{
+	width:48%;
+	float: left;
+}
+
+
+
+
+/*end of footer*/
+
+.clr{clear:both;}
+
+.contact-us
+{
+	width:100%;
+	
+}
+
+
+
+
+
+
